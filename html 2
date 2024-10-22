@@ -1,0 +1,73 @@
+
+<html>
+    <head>
+        <metat charset="UTF-8">
+        <title>Titre Google</title>
+        <meta name="description" content="Blablabla...">
+        <meta name="vieuwport" content="width=device-width, initial-scarle=1.0">
+        <link rel="icon"href="favicon.ico">
+        <link href="style.css" rel="stylesheet">
+        <style>
+        body {background-color: #c0c4a3;}
+        h1 {background-color: #edd4cf;}
+        p {background-color: #fbc3bd;}
+        a {color:yellow;}
+        span {color: green;}
+        span {font-weight:bold;}
+        label {color:#e3c7c4;}
+        label{background-color: mintcream;}
+        </style>
+    </head>
+    <body>
+    
+        <h1>Renault 4 revient en tant que crossover électrique : un icône automobile avec une technologie moderne et un style rétro</h1>
+        <h2>Renault 4 revient en tant que crossover électrique : un icône automobile avec une technologie moderne et un style rétro</h2>
+        <p>Le Renault 4 est de retour en tant que crossover électrique moderne, ravivant un nom iconique qui a vendu plus de 8 millions d’unités en 30 ans.
+        Lancé à l’origine en 1961 en réponse à la Citroën 2CV, le modèle est devenu un grand succès jusqu’à son arrêt en 1994. Le nouveau modèle est une version crossover du Renault 5, avec une suspension surélevée et un toit en toile coulissant qui rappelle son prédécesseur.</p>
+
+        <p1>Mesurant 4,14 mètres de long, <span>le Renault 4 est plus grand que son prédécesseur et se positionne entre la Clio et le Captur,</span> offrant une capacité de chargement généreuse de 420 litres.</p1>
+
+        <p2>L’intérieur conserve la familiarité du hatchback, avec un tableau de bord numérique et un écran tactile, ainsi qu’un espace supplémentaire pour les passagers arrière. La nouvelle configuration comprend également des roues de 18 pouces et une suspension indépendante.</p2>
+
+        <p3>Le Renault 4 E-Tech est proposé avec deux options de motorisation, avec des puissances variant de 90 kW (121 ch) à 110 kW (148 ch), offrant une accélération rapide de 0 à 100 km/h en moins de 8,5 secondes. Disponible avec des batteries de 40 kWh et 52 kWh, l’autonomie peut atteindre 400 kilomètres.</p3>
+
+        <p4>Le modèle prend également en charge la recharge rapide et bidirectionnelle, augmentant sa polyvalence. Après ses débuts au Salon de l’Automobile de Paris, le nouveau Renault 4 sera lancé en Europe l’année prochaine.</p4>
+        
+        <p>Un paragraphe avec <a href="file:///C:/Users/E6K21404/Documents/HTLM.K/html.html"target="_blank"title="lien vers Google">un Lien</a></p>
+        <ul>
+            <li><a href="https://www.adeventsacademy.be/"target="_blank"title="lien vers Google">élément 2 </a> </li>
+            <li>élément 2</li>
+            <li>élément 3</li>
+        </ul>
+        <ol>
+            <li>élément A</li>
+            <li>élément B</li>
+            <li>élément C</li>
+        </ol>
+        <img src="c:\Users\E6K21302\Downloads\flowers az.jpeg" width="20%">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ks0PI1A5UpU?si=L2XKq8Eooqhi7Yiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </body>
+</html>
+
+<table>
+    <tr>
+        <td>cell1</tb>
+        <td>cell2</td>
+        <td>cell3</td>
+    </tr>
+        <tr class="ligne2">
+        <td>cell1</td>
+        <td>cell2</td>
+        <td>cell3</td>
+    </tr>
+</table>
+
+<form>
+    <label> Votre nom</label>
+    <input type="text" placeholder="Entrer ici votre nom">
+    <label>Votre email</label>
+    <input type="email" placeholder="Ex: adressse@domain.com" value="" name="email">
+    <input type="button" value="Envoyer">
+    
+
+</form>
